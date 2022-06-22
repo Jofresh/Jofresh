@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welcome to my GitHub page 👋
+
+## 💬 About me
+I'm a french computer science student passionate about web development.
+
+## 🌱 Technologies
+I’m currently learning Node.js and front-end frameworks such as React, Vue, Angular, Svelte...
 
 <!--
 **Jofresh/Jofresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
