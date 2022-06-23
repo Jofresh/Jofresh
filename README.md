@@ -4,7 +4,7 @@
 I'm a french computer science student passionate about web development.
 
 ## ⚡ Technologies
-I’m currently learning Node.js (Express) and front-end frameworks such as React, Svelte...
+I’m currently learning Node.js (Express) and front-end frameworks such as Svelte or React.
 
 <!--
 **Jofresh/Jofresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
