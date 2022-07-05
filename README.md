@@ -1,7 +1,8 @@
 <h3 align="center">Hi 👋 I'm Geoffray</h3>
 <p align="center">
   <a href="https://jofresh.github.io/portfolio">Website</a> •
-  <a href="https://codepen.io/jofresh">Codepen</a>
+  <a href="https://codepen.io/jofresh">Codepen</a> •
+  <a href="http://jofreshapi.herokuapp.com">Sample API</a>
 </p>
 
 <h5 align="center">A French student in computer science, passionate about web development</h5>
