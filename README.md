@@ -1,9 +1,9 @@
 <h3 align="center">Hi 👋 I'm Geoffray</h3>
 <p align="center">
-  <a href="https://jofresh.github.io/portfolio">Portfolio</a> •
-  <a href="https://codepen.io/jofresh">Codepen</a> •
-  <a href="https://jsfiddle.net/user/jofresh/fiddles/">JSFiddle</a> •
-  <a href="http://jofreshapi.herokuapp.com">Sample API</a>
+  <a href="https://jofresh.github.io/portfolio" target="_blank">Portfolio</a> •
+  <a href="https://codepen.io/jofresh" target="_blank">Codepen</a> •
+  <a href="https://jsfiddle.net/user/jofresh/fiddles/" target="_blank">JSFiddle</a> •
+  <a href="http://jofreshapi.herokuapp.com" target="_blank">Sample API</a>
 </p>
 
 <h5 align="center">A French student in computer science, passionate about web development</h5>
