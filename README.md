@@ -1,6 +1,5 @@
 <h3 align="center">Hi 👋 I'm Geoffray</h3>
 <p align="center">
-  <a href="https://jofresh.github.io/portfolio" target="_blank">Portfolio</a> •
   <a href="https://codepen.io/jofresh" target="_blank">Codepen</a> •
   <a href="https://jsfiddle.net/user/jofresh/fiddles/" target="_blank">JSFiddle</a>
 </p>
