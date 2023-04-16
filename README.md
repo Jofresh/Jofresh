@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" alt="SQLite">
   </div>
   <div>
-    <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" alt="VSCode"> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=plastic&logo=Eclipse&logoColor=white" alt="Eclipse">
+    <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" alt="VSCode"> <img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=plastic&logo=intellij-idea&logoColor=white" alt="IntelliJ"><img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=plastic&logo=Eclipse&logoColor=white" alt="Eclipse">
   </div>
   <div>
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white" alt="Notion"> <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white" alt="Jira"> <img src="https://img.shields.io/badge/Confluence-%23172BF4.svg?style=plastic&logo=confluence&logoColor=white" alt="Confluence">
